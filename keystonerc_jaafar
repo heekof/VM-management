@@ -1,0 +1,7 @@
+unset OS_SERVICE_TOKEN
+export OS_USERNAME=jaafar
+export OS_PASSWORD=marocfrance1
+export OS_AUTH_URL=http://157.159.232.52:5000/v2.0
+export PS1='[\u@\h \W(keystone_jaafar)]\$ '
+
+export OS_TENANT_NAME=jaafarj
